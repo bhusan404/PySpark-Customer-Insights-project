@@ -1,0 +1,11 @@
+TransactionID,CustomerID,Product,Quantity,Price,Date
+1,C001,Laptop,1,75000,2023-11-01
+2,C002,Mouse,2,500,2023-11-01
+3,C001,Headphones,1,1500,2023-11-02
+4,C003,Laptop,1,76000,2023-11-03
+5,C002,Keyboard,3,700,2023-11-04
+6,C001,Mouse,1,550,2023-11-05
+7,C004,Headphones,2,1600,2023-11-06
+8,C003,Laptop,1,77000,2023-11-07
+9,C005,Mouse,1,520,2023-11-08
+10,C001,Keyboard,1,750,2023-11-09
